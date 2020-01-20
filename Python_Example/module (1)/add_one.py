@@ -7,8 +7,7 @@ while(n>0):
     n=n//10
 
 while(number>0):
-    digit=number%10
-    digit=digit+1
+    digit=(number%10)+1
     final=final*10+digit
     number=number//10
 print("The number+1 is %d"%(final))
