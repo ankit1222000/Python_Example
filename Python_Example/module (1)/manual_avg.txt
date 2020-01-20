@@ -1,0 +1,10 @@
+r=s=t=5
+avg=r+s+t/3
+ 1) Replacing Values of r,s,t in avg we get
+avg=5+5+5/3
+2) Performing Divide Operation First
+avg=5+5+1.667
+3) Performing the Addition Operation
+avg=10+1.667
+4)avg=11.667
+Answer is : 11.667

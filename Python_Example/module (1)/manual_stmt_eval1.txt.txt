@@ -1,0 +1,24 @@
+Question 1 
+a=4*3/4+4/4+8-2+5/8
+
+Steps:
+a) First We Will Check the precedence of all the operators in the given expression and evaluate the expression
+accc. to the operator precedence level
+b) here the highest precendence is of * operator so first we will perform the multiplication operation:- *>/>+>-
+1) a=4*3/4+4/4+8-2+5/8
+2) Evaluating 4*3
+ a=12/4+4/4+8-2+5/8
+3) Evaluating 12/4
+a=3.0+4/4+8-2+5/8
+4) Evaluating 4/4
+a=3.0+1.0+8-2+5/8
+5) Evaluating 5/8
+a=3.0+1.0+8-2+0.625
+6) Evaluating 3.0+1.0
+a=4.0+8-2+0.625
+7) Evaluating 4.0+8
+a=.12.0-2+0.625
+8) Evaluating 2+0.625
+a=12.0-2.625
+9) Finally Evalutating 12.0-2.625
+Answer= 10.625
